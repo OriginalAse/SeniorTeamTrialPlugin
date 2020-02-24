@@ -1,7 +1,0 @@
-#Messages
-NoPermMessage: "&cYou do not have permission to use this command!"
-ConsoleCommandMessage: "&cStop executing player commands from the console!"
-
-#Enable options for commands
-Enabled:
-  Fly: true
